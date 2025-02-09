@@ -12,9 +12,6 @@ Our comparison variables to determine the efficiency of our model includes accur
 This project was a collaborative effort between the following members:
 - Thomas D. Robertson
 - Tania Perdomo Flores
-- Logan Bolton
-- Fengjun Han
-- Kristian Obrusanszki
 
 ## Results
 The progress and results of the project can be found in the pdf file: CSC-3220-Team-1-Diabetes-Final-Report
